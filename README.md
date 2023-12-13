@@ -2,3 +2,8 @@ African Mythology Mugen is an RPG in which two players battle against one anothe
 and use their respective abilities and perks (characters based on Nigerian mythical gods). 
 Both players will begin each game with health at 100 and will battle until one player's health reaches 0.
 Players can save and resume during a game and start a new game.
+
+There is a base character class and four derived classes that inherits from the Character class.
+The four characters are Sango, Ogun, Orunmila and, Osun.
+
+
